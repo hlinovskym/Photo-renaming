@@ -14,6 +14,7 @@ import pytz
 ################################################################
 ###       prepis cestu a pozor na milisekundy !!!            ###
 ################################################################
+###      milisekundy jsou odkomentovaný a řeší se jinak      ###
 
 PATH = "/.../"
 
