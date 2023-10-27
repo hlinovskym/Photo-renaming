@@ -1,6 +1,6 @@
 import os
 
-PATH = "/__foto/2023/2023-01-01 - Matýsek a Verunka/sam/"
+PATH = "/.../"
 
 files = os.listdir(PATH)
 length = []

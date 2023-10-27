@@ -15,7 +15,7 @@ import pytz
 ###       prepis cestu a pozor na milisekundy !!!            ###
 ################################################################
 
-PATH = "/__foto/2023/2023-01-01 - Matýsek a Verunka/goo/"
+PATH = "/.../"
 
 
 def is_dst(dt, time_zone):
